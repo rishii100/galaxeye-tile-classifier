@@ -1,0 +1,28 @@
+{
+  "architectures": [
+    "ResNetForImageClassification"
+  ],
+  "model_type": "resnet",
+  "num_labels": 7,
+  "id2label": {
+    "0": "AnnualCrop",
+    "1": "Forest",
+    "2": "Highway",
+    "3": "Industrial",
+    "4": "Residential",
+    "5": "River",
+    "6": "SeaLake"
+  },
+  "label2id": {
+    "AnnualCrop": 0,
+    "Forest": 1,
+    "Highway": 2,
+    "Industrial": 3,
+    "Residential": 4,
+    "River": 5,
+    "SeaLake": 6
+  },
+  "image_size": 64,
+  "framework": "pytorch",
+  "dataset": "EuroSAT-7-subset"
+}

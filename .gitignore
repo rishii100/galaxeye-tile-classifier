@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# SQLite database (generated at runtime)
+results.db
+
+# Dataset zip & unzipped folder (too large for GitHub)
+Galaxeye-BE_MLSys-TakeHome_Assignment-Tiles.zip
+be-mlsys-assignment-dataset/
+
+# Assignment PDF (not a deliverable)
+GalaxEye-Backend_Engineer_ML_Systems-TakeHomeAssignment.pdf
+
+# Internal planning doc (not a deliverable)
+project_plan.md
+
+# Legacy .pth model (redundant — safetensors is the primary format)
+model.pth
