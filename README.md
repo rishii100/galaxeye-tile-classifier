@@ -1,5 +1,4 @@
 # 🛰️ GalaxEye — Offline Satellite Tile Land-Use Classification Service
-**Backend Engineer (ML Systems) Take-Home Assignment**
 
 This repository contains the complete solution for the offline satellite tile land-use classification service, designed to run on isolated hardware without internet connectivity.
 
